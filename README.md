@@ -10,7 +10,7 @@ My name is Sergiy, I am beginner of quality control specialist. Here I posted my
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="[testercrocs@gmail.com]" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chirimbola.mx%2F%3Fq%3Dgoogle-ditches-signature-gmail-envelope-in-revamped-logo-mm-dR1Xw4cZ&psig=AOvVaw0c24xT17O_mTmGSx-LU8ed&ust=1701018367562000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD0zq_R34IDFQAAAAAdAAAAABAJ" width="40" height="40" alt="gmail" />
+    <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" width="40" height="40" alt="gmail" />
     </a>
     <a href="https://t.me/Moonstartester" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
