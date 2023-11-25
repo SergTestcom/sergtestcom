@@ -9,7 +9,7 @@ My name is Sergiy, I am beginner of quality control specialist. Here I posted my
     <a href="[https://www.linkedin.com/in/sergiy-mazur-7149b3108/]" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="[testercrocs@gmail.com]" target="_blank">
+    <a href="[https://mail.google.com/mail/u/0/#inbox testercrocs@gmail.com]" target="_blank">
     <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" width="40" height="40" alt="gmail" />
     </a>
     <a href="https://t.me/Moonstartester" target="_blank">
