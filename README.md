@@ -1,17 +1,20 @@
 Hi there.
 My name is Sergiy, I am beginner of quality control specialist. Here I posted my portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.
 
+### 📫 Contact me: 
 
-
-### 🤝 Social networks:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sergiy-mazur-7149b3108/" target="_blank">
+<div id="badges"> 
+  <a href="https://www.linkedin.com/in/sergiy-mazur-7149b3108/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="mailto:testercrocs@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" width="40" height="40" alt="gmail" />
     </a>
+  </div>
+
+### 🤝 Social networks:
+
+  <div id="badges">
     <a href="https://t.me/Moonstartester" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
