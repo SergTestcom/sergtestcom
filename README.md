@@ -1,4 +1,5 @@
-![Header](https://github.com/SergTestcom/sergtestcom/blob/main/assets/https://www.volumetree.com/wp-content/uploads/2019/05/Software-quality-assurance-and-type-of-testing.jpg)
+![Header](https://github.com/SergTestcom/sergtestcom/blob/main/https://www.volumetree.com/wp-content/uploads/2019/05/Software-quality-assurance-and-type-of-testing.jpg)
+
 
 Hi there.
 My name is Sergiy, and i am beginner of quality control specialist. Here I posted my portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.
