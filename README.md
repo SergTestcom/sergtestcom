@@ -22,6 +22,22 @@ My name is Sergiy, I am beginner of quality control specialist. Here I posted my
 
 ---
 
+
+###  📁 🐜Test Artifacts
+
+- [Checklists](https://github.com/SergTestcom/Checklist)
+- [Test-Cases](https://github.com/SergTestcom/Test-cases)
+- [Bug-Reports](https://github.com/SergTestcom/Bug-reports)
+- [SQL Queries](https://github.com/SergTestcom/SQL)
+- [Postman Collections](https://github.com/SergTestcom/Postman)
+- [Test plans/Reports on the conducted testing ](https://github.com/SergTestcom/Test-plans-reports)
+- [Bash commands](https://github.com/SergTestcom/Bash)
+- [Git]()
+- [Charles proxy](https://github.com/SergTestcom/Charles)
+
+
+---
+
 ### 📁Testing documentation:
 
 <div>
