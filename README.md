@@ -23,7 +23,7 @@ My name is Sergiy, I am beginner of quality control specialist. Here I posted my
 ---
 
 
-###  📁 🐞Test Artifacts
+###  📁 🦎 Test Artifacts
 
 - [Checklists](https://github.com/SergTestcom/Checklist)
 - [Test-Cases](https://github.com/SergTestcom/Test-cases)
