@@ -32,7 +32,6 @@ My name is Sergiy, I am beginner of quality control specialist. Here I posted my
 - [Postman Collections](https://github.com/SergTestcom/Postman)
 - [Test plans/Test reports ](https://github.com/SergTestcom/Test-plans-reports)
 - [Bash commands](https://github.com/SergTestcom/Bash)
-- [Git]()
 - [Charles proxy](https://github.com/SergTestcom/Charles)
 
 
