@@ -1,5 +1,5 @@
 Hi there.
-My name is Sergiy, I am beginner of quality control specialist. Here I posted my portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.
+My name is Sergiy, and i am beginner of quality control specialist. Here I posted my portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.
 
 ### 📫 Contact me: 
 
