@@ -30,7 +30,7 @@ My name is Sergiy, I am beginner of quality control specialist. Here I posted my
 - [Bug-Reports](https://github.com/SergTestcom/Bug-reports)
 - [SQL Queries](https://github.com/SergTestcom/SQL)
 - [Postman Collections](https://github.com/SergTestcom/Postman)
-- [Test plans/Reports on the conducted testing ](https://github.com/SergTestcom/Test-plans-reports)
+- [Test plans/Test reports ](https://github.com/SergTestcom/Test-plans-reports)
 - [Bash commands](https://github.com/SergTestcom/Bash)
 - [Git]()
 - [Charles proxy](https://github.com/SergTestcom/Charles)
