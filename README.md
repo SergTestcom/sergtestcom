@@ -93,12 +93,12 @@ My name is Sergiy, and i am beginner of quality control specialist. Here I poste
 
 ---
 
-<!-- ### 💻 Passed courses:
+### 👨‍🎓 Completed training courses:
 
-| Курсы                                                           | Дата              |
+| Courses                                                           | Date              |
 | ----------------------------------------------------------------| :---------------: |
-| artsiomrusau.com/ Functional software testing                           | 06/2023 - 12/2022 |
+| [artsiomrusau.com](https://artsiomrusau.com/)/ Course "Software functional testing"              | 06/2023 - 12/2023 |
 
---- -->
+---
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SergTestcom)
