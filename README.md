@@ -1,4 +1,4 @@
-![Header] (https://github.com/SergTestcom/sergtestcom/blob/main/assets/https://number8.com/app/uploads/2023/06/number8-why-and-how-to-hire-QA.png)
+![Header](https://github.com/SergTestcom/sergtestcom/blob/main/assets/https://number8.com/app/uploads/2023/06/number8-why-and-how-to-hire-QA.png)
 
 Hi there.
 My name is Sergiy, and i am beginner of quality control specialist. Here I posted my portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.
