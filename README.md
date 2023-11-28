@@ -1,4 +1,4 @@
-![Header](https://github.com/SergTestcom/sergtestcom/blob/main/C:\Users\laffa\Documents\git_training\sergtestcom\sergtestcom\logo\Logo.jpg)
+![Header](https://github.com/SergTestcom/sergtestcom/blob/main/logo/Logo.jpg)
 
 ### Hi there👋
 My name is Sergiy, and i am beginner of quality control specialist. Here I posted my portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.
