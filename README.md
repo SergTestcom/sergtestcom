@@ -23,7 +23,6 @@ My name is Sergiy, and i am beginner of quality control specialist. Here I poste
   </div>
 
 ---
-### List of my skills and tools 💻⚒️🎓💡
 
 ###  📁 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f419/512.webp" height="25" > Test Artifacts
 
@@ -38,6 +37,8 @@ My name is Sergiy, and i am beginner of quality control specialist. Here I poste
 
 
 ---
+
+### List of my skills and tools 💻⚒️🎓💡
 
 ### 📁Testing documentation:
 
