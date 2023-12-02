@@ -1,7 +1,7 @@
 ![Header](https://github.com/SergTestcom/sergtestcom/blob/main/logo/Logo.jpg)
 
 ### Hi there👋
-My name is Sergiy, and i am beginner of quality assurance specialist. Here I posted my portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.
+My name is Sergiy, and i am beginner of quality assurance engineer. Here I posted my portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.
 
 ### 📫 Contact me: 
 
