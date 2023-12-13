@@ -3,8 +3,11 @@
 ### Hi there👋
 My name is Sergiy, and i am beginner of quality assurance engineer. Here I posted my portfolio with information about the knowledge and skills of testing that I acquired in software testing courses.
 
+---
+
 ## My CV 📄[Sergiy Mazur_CV](https://docs.google.com/document/d/1p44ZBuv8--GtMtqCjP5Ta47tKGjP5wvmuZGq3NzNiYA/edit)
 
+---
 
 ### 📫 Contact me: 
 
@@ -16,6 +19,8 @@ My name is Sergiy, and i am beginner of quality assurance engineer. Here I poste
     <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" width="40" height="40" alt="gmail" />
     </a>
   </div>
+
+---
 
 ### 🤝 Social networks:
 
