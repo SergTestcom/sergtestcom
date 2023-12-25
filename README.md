@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Snow Fall</title>
-
-        <style>
-            html, body{
-                height: 100%;
-                width: 100%;
-                background-color:blanchedalmond;
-            }
-            
-            .snowfall{
-                animation: snow 30s liner infinite;
-            }    
-
 ![Header](https://github.com/SergTestcom/sergtestcom/blob/main/logo/Logo.jpg)
 
 ### Hi there👋
@@ -140,15 +124,4 @@ My name is Sergiy, and i am beginner of quality assurance engineer. Here I poste
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SergTestcom)
 
- @keyframes snow {
-                0%{
-                    background-position: 0px 0px, 0px 0px, 0px 0px;
-                }
-                100%{
-                    background-position: 600px 1800px, 600px 1200px, 600px 600px;
-                }
-
-            }
-
-            
-            body{
+ 
