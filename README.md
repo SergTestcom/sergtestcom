@@ -71,7 +71,7 @@ My name is Sergiy, and i am beginner of quality assurance engineer. Here I poste
 
 ---
 
-### 📲 Mobile app testing:
+### 📱 Mobile app testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
