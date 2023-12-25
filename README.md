@@ -112,7 +112,7 @@ My name is Sergiy, and i am beginner of quality assurance engineer. Here I poste
 
 ---
 
-### 📜Certificates:
+### 🗝️Certificates:
 
 🎖[QA engineer](https://v2.coreapp.ai/certificate/pdf/65855a14a79c86b0aa6e307c)
 
