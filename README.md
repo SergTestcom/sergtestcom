@@ -112,4 +112,14 @@ My name is Sergiy, and i am beginner of quality assurance engineer. Here I poste
 
 ---
 
+### 📜Certificates:
+
+🎖[QA engineer](https://v2.coreapp.ai/certificate/pdf/65855a14a79c86b0aa6e307c)
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergTestcom&show_icons=true&theme=radical)
+
+---
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SergTestcom)
